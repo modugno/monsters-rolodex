@@ -1,3 +1,9 @@
 .App {
   text-align: center;
 }
+
+.page-title {
+  font-family: 'Bigelow Rules';
+  font-size: 72px;
+  color: #0ccac4;
+}
